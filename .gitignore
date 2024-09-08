@@ -1,0 +1,5 @@
+mirror.py
+.git
+.git/
+.ipynb_checkpoints/
+.DS_Store
